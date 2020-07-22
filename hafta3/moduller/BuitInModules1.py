@@ -27,4 +27,3 @@ print(os.walk("/home/serkancam/Belgeler/test"))
 
 a,b,c = os.walk("/home/serkancam/Belgeler/test")
 
-print(a,b,c)
